@@ -5,7 +5,7 @@ this project is a data analysis project which uses some  # python Librairies lik
 # pandas 
 # Matplotlib,
 web scaping with # BeautifulSoup  
-# mongodb   a nosql databse
+# mongodb   a nosql database
  # this project illustrates THE STAGES OF DATA ANALYSIS and DATA Visualization
  Data collection
  Data Cleaning
